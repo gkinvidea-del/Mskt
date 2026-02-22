@@ -1,7 +1,7 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "title": "🔐 ID Login",
-  "description": "Only Login Button पर Click करे ।",
+  "description": "Only WhatsApp 7456008170।",
   "button": "LOGIN",
   "toast": "✅ ID Successfully Logged In!",
   "devices": [
