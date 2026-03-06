@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "🔐 ID Login",
-  "description": "Only WhatsApp 7456008170।",
+  "description": "only login button pr click kren",
   "button": "LOGIN",
   "toast": "✅ ID Successfully Logged In!",
   "devices": [
