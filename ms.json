@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "title": "🔐 ID Login",
   "description": "Only WhatsApp 7456008170।",
   "button": "LOGIN",
