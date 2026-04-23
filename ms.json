@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "title": "🔐 ID Login",
   "description": "only login button pr click kren",
   "button": "LOGIN",
